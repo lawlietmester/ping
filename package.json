@@ -1,0 +1,22 @@
+{
+  "name": "system-ping",
+  "version": "0.0.1",
+  "description": "Very simple Node.js module to make system level ping. Windows, Linux, Max supported",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawlietmester/ping.git"
+  },
+  "keywords": [
+    "ping"
+  ],
+  "author": "lawlietmester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawlietmester/ping/issues"
+  },
+  "homepage": "https://github.com/lawlietmester/ping#readme"
+}
